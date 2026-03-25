@@ -20,7 +20,7 @@
 Выполните команды на сервере:
 
 ```bash
-mkdir -p /opt/remnanode && cd /opt/remnanode
+mkdir -p /var/log/remnanode/access.log
 ```
 
 ### 2. Подключение тома к контейнеру Remnawave
